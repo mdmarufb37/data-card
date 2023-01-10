@@ -1,2 +1,2 @@
 # data-card
-live at https://github.com/mdmarufb37/data-card.git
+live at https://mdmarufb37.github.io/data-card/
